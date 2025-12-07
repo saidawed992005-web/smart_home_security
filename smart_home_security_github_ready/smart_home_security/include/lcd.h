@@ -1,0 +1,1 @@
+void lcd_init(); void lcd_clear(); void lcd_print(const char*); void lcd_goto(uint8_t, uint8_t); void lcd_data(char);
